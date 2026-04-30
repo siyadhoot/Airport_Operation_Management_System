@@ -1,0 +1,10 @@
+{
+  "/flights/page": "app/flights/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/staff/page": "app/staff/page.js",
+  "/gates/page": "app/gates/page.js",
+  "/runways/page": "app/runways/page.js",
+  "/belts/page": "app/belts/page.js",
+  "/passengers/page": "app/passengers/page.js",
+  "/bookings/page": "app/bookings/page.js"
+}
